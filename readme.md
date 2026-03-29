@@ -1,6 +1,3 @@
-![Banner SpectreGuard](https://github.com/user-attachments/assets/7b735ef0-95c5-4b8a-bd28-7a2ebe16b0db)
-
-
 :rocket: SpectreGuard - FiveM Anticheat
 
 :shield: SpectreGuard is an advanced security solution for FiveM servers, independently developed and created in March 2016. It was born with a clear objective: to provide maximum protection for communities against cheating, exploits, and malicious behavior.
