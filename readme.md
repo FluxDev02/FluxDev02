@@ -15,9 +15,9 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
+<br><br>
 <img src="https://skillicons.dev/icons?i=lua,nodejs,cs,cpp,py" />
-
+<br><br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
 </div>
