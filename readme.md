@@ -12,6 +12,19 @@
 
 **:fire: Protect your server. Dominate the cheaters. Trust SpectreGuard.**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,html,css,js,react,nodejs,cs,cpp,py,mysql,mongodb,postgres" />
-</p>
+<div align="center">
+
+## 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
+<br><br>
+
+## ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=lua,nodejs,cs,cpp,py" />
+
+<br><br>
+
+## 🗄️ Bases de Datos
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+
+</div>
