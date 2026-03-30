@@ -1,16 +1,27 @@
-**:rocket: SpectreGuard - FiveM Anticheat**
+<div align="center">
 
-**:shield: SpectreGuard is an advanced security solution for FiveM servers, independently developed and created in March 2026. It was born with a clear objective: to provide maximum protection for communities against cheating, exploits, and malicious behavior.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:2C2D72&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
-**:computer: Designed from the ground up, SpectreGuard incorporates intelligent detection systems that analyze player activity in real time, guaranteeing a fair and balanced experience for everyone.**
+# 👋 Hi, I'm a Developer
 
-**:zap: Its performance is optimized to avoid impacting the server, preventing FPS drops or overload, while maintaining constant and effective protection.**
+### Full Stack & FiveM Developer
 
-**:wrench: Compatible with popular frameworks like ESX/QBCore, it offers simple and adaptable integration for any type of server, from small projects to large communities.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A00FF&center=true&vCenter=true&width=500&lines=FiveM+Developer;Anticheat+Specialist;Full+Stack+Developer;Always+learning+new+things" />
 
-**:dart: With a focus on innovation, precision, and reliability, SpectreGuard positions itself as an essential tool for administrators looking to take their server security to the next level.**
+</div>
 
-**:fire: Protect your server. Dominate the cheaters. Trust SpectreGuard.**
+---
+
+## 🌐 About Me
+
+* 💻 Passionate about development and security systems
+* 🛠️ Specialized in FiveM scripting & backend systems
+* ⚡ Focused on performance, optimization and clean code
+* 🚀 Always building new projects and improving skills
+
+---
+
+## 🧠 Tech Stack
 
 <div align="center">
 
@@ -19,5 +30,87 @@
 <img src="https://skillicons.dev/icons?i=lua,nodejs,cs,cpp,py" />
 <br><br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+
+</div>
+
+---
+
+## ⚡ What I Do
+
+* 🧩 FiveM Scripts (ESX / Custom systems)
+* 🛡️ Anticheat Development
+* 🌐 Full Stack Web Development
+* ⚙️ Backend & API Systems
+* 🔐 Security & Optimization
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FluxDev02&show_icons=true&theme=tokyonight" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FluxDev02&layout=compact&theme=tokyonight" height="150" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FluxDev02&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+
+</div>
+
+---
+
+## 🧰 Tools & Workflow
+
+* 🧠 Clean Architecture
+* 🔄 Git & Version Control
+* 🐛 Debugging & Optimization
+* 📦 Modular Development
+
+---
+
+## 📫 Contact
+
+* 💬 Discord: yourname#0000
+* 🌐 Portfolio: coming soon
+
+---
+
+<div align="center">
+
+🔥 *Always learning. Always building.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:2C2D72&height=120&section=footer" />
 
 </div>
