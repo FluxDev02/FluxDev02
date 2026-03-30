@@ -51,7 +51,7 @@
 
 </div>
 
-## 🐍 Contribution Snake
+## Snake
 
 <div align="center">
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=FluxDev02&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -71,7 +71,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FluxDev02&theme=tokyo-night" />
 
 </div>
 
