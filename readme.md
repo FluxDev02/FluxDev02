@@ -12,10 +12,9 @@
 
 ## 🌐 About Me
 
-* 💻 Passionate about development and security systems
-* 🛠️ Specialized in FiveM scripting & backend systems
-* ⚡ Focused on performance, optimization and clean code
-* 🚀 Always building new projects and improving skills
+* Passionate about development
+* Specialized in FiveM scripting
+* Focused on performance, optimization and clean code
 
 ## 🧠 Tech Stack
 
@@ -31,13 +30,11 @@
 
 ## ⚡ What I Do
 
-* 🧩 FiveM Scripts (ESX / Custom systems)
-* 🛡️ Anticheat Development
-* 🌐 Full Stack Web Development
-* ⚙️ Backend & API Systems
-* 🔐 Security & Optimization
+* FiveM Scripts
+* Full Stack Web Development
+* Backend & APIs
 
-## 📊 GitHub Stats
+## 📊 Github Stats
 
 <div align="center">
 
@@ -51,7 +48,7 @@
 
 </div>
 
-## Snake
+## 🐍 Snake
 
 <div align="center">
 
@@ -59,7 +56,7 @@
 
 </div>
 
-## 📈 Activity Graph
+## 📈 Activity chartt
 
 <div align="center">
 
@@ -67,21 +64,12 @@
 
 </div>
 
-## 🧰 Tools & Workflow
-
-* 🧠 Clean Architecture
-* 🔄 Git & Version Control
-* 🐛 Debugging & Optimization
-* 📦 Modular Development
-
 ## 📫 Contact
 
-* 💬 Discord: yourname#0000
-* 🌐 Portfolio: coming soon
+* Discord: fluxdev1_
+* email: fluxdev@outlook.es
 
 <div align="center">
-
-🔥 *Always learning. Always building.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:2C2D72&height=120&section=footer" />
 
