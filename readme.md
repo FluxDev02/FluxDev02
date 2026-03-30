@@ -31,7 +31,7 @@
 ## ⚡ What I Do
 
 * FiveM Scripts
-* Full Stack Web Development
+* Web Development
 * Backend & APIs
 
 ## 📊 Github Stats
