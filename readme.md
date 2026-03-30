@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:2C2D72&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
-# 👋 Hi, I'm a Developer
+# 👋 Hi, I'm Flux
 
-### Full Stack & FiveM Developer
+### Full Stack Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A00FF&center=true&vCenter=true&width=500&lines=FiveM+Developer;Full+Stack+Developer;Always+learning+new+things" />
 
