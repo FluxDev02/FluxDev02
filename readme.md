@@ -6,11 +6,9 @@
 
 ### Full Stack & FiveM Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A00FF&center=true&vCenter=true&width=500&lines=FiveM+Developer;Anticheat+Specialist;Full+Stack+Developer;Always+learning+new+things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A00FF&center=true&vCenter=true&width=500&lines=FiveM+Developer;Full+Stack+Developer;Always+learning+new+things" />
 
 </div>
-
----
 
 ## 🌐 About Me
 
@@ -18,8 +16,6 @@
 * 🛠️ Specialized in FiveM scripting & backend systems
 * ⚡ Focused on performance, optimization and clean code
 * 🚀 Always building new projects and improving skills
-
----
 
 ## 🧠 Tech Stack
 
@@ -33,8 +29,6 @@
 
 </div>
 
----
-
 ## ⚡ What I Do
 
 * 🧩 FiveM Scripts (ESX / Custom systems)
@@ -42,8 +36,6 @@
 * 🌐 Full Stack Web Development
 * ⚙️ Backend & API Systems
 * 🔐 Security & Optimization
-
----
 
 ## 📊 GitHub Stats
 
@@ -59,8 +51,6 @@
 
 </div>
 
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -68,8 +58,6 @@
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
-
----
 
 ## 🏆 Achievements
 
@@ -79,8 +67,6 @@
 
 </div>
 
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -89,8 +75,6 @@
 
 </div>
 
----
-
 ## 🧰 Tools & Workflow
 
 * 🧠 Clean Architecture
@@ -98,14 +82,10 @@
 * 🐛 Debugging & Optimization
 * 📦 Modular Development
 
----
-
 ## 📫 Contact
 
 * 💬 Discord: yourname#0000
 * 🌐 Portfolio: coming soon
-
----
 
 <div align="center">
 
