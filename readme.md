@@ -14,17 +14,10 @@
 
 <div align="center">
 
-## 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-<br><br>
-
-## ⚙️ Backend
 <img src="https://skillicons.dev/icons?i=lua,nodejs,cs,cpp,py" />
 
-<br><br>
-
-## 💾 Databases
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
 </div>
