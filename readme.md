@@ -6,7 +6,7 @@
 
 ### Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A00FF&center=true&vCenter=true&width=500&lines=FiveM+Developer;Full+Stack+Developer;Always+learning+new+things" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6A00FF&center=true&vCenter=true&width=500&lines=Actually+working+on+FiveM;Full+Stack+Developer;Always+learning+new+things" />
 
 </div>
 
