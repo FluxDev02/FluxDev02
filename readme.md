@@ -48,15 +48,11 @@
 
 </div>
 
-## 🐍 Snake
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 
 </div>
-
-## 📈 Activity chartt
 
 <div align="center">
 
